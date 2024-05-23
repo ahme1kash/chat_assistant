@@ -1,4 +1,0 @@
-//Requirements
-1- streamlit - v(1.29.0)
-2 - openai
-3- audio_recorder_streamlit
